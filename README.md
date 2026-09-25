@@ -2,8 +2,6 @@
 
 A PostGIS spatial analysis mapping park coverage across Bangalore's 225 BBMP wards, built to identify green-space-rich and green-space-poor areas of the city.
 
-![Bangalore Green Space Map](map.png)
-
 ## Overview
 
 This project overlays real park data from OpenStreetMap onto official BBMP ward boundaries to calculate what percentage of each ward's area is covered by parks. The result highlights a stark disparity: a small number of wards have significant green cover, while the majority have very little to none.
